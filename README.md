@@ -1,23 +1,23 @@
-Proyecto: Análisis de Ventas y Rentabilidad
+PROYECTO: Análisis de Ventas y Rentabilidad
 
-Dashboard desarrollado en Power BI como parte del curso Informatorio.
+📊 Dashboard desarrollado en Power BI como parte del curso Informatorio.
 
-Objetivo:
+🎯 Objetivo:
 Analizar ventas, ganancias y rentabilidad para identificar oportunidades de mejora.
 
-KPIs:
+📈 KPIs:
 - Ventas Totales
 - Ganancia Total
 - Margen de Ganancia
 - Ganancia Promedio por Venta
 
-Análisis:
+💡 Análisis:
 - Evolución temporal
 - Categorías y subcategorías
 - Productos con pérdida
 - Análisis geográfico
 
-Herramientas:
+🛠️ Herramientas:
 - Power BI
 - ETL
 - DAX
